@@ -1,0 +1,17 @@
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\MyTaskScheduler.exe.config
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\MyTaskScheduler.exe
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\MyTaskScheduler.pdb
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\MyTaskScheduler\MyTaskScheduler\obj\Debug\MyTaskScheduler.csprojAssemblyReference.cache
+C:\MyTaskScheduler\MyTaskScheduler\obj\Debug\MyTaskScheduler.csproj.CoreCompileInputs.cache
+C:\MyTaskScheduler\MyTaskScheduler\obj\Debug\MyTaskScheduler.csproj.CopyComplete
+C:\MyTaskScheduler\MyTaskScheduler\obj\Debug\MyTaskScheduler.exe
+C:\MyTaskScheduler\MyTaskScheduler\obj\Debug\MyTaskScheduler.pdb
